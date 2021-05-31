@@ -10,6 +10,7 @@
 		<config>src/main/resources/test.xml</config>
 		<config>src/main/resources/getSum.xml</config>
 		<config>src/main/resources/examDao.xml</config>
+		<config>src/main/resources/person.xml</config>
 	</configs>
 	<autoconfigs>
 		<config>src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml</config>
